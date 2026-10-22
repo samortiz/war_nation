@@ -1,0 +1,11 @@
+.gradle/
+build/
+local.properties
+android/libs/
+.idea/
+*.iml
+.kotlin/
+# Local JDKs and Android SDK, in case one is ever placed inside the project
+.jdks/
+jdk*/
+Android/Sdk/
